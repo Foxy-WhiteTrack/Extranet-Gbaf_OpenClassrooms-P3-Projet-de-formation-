@@ -1,0 +1,6 @@
+url pour afficher les acteurs:
+
+http://localhost/P3OC/acteurs.php?access=actor&id=1
+http://localhost/P3OC/acteurs.php?access=actor&id=2
+http://localhost/P3OC/acteurs.php?access=actor&id=3
+http://localhost/P3OC/acteurs.php?access=actor&id=4
